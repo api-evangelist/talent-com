@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Talent.com is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://talent.com/
+Talent.com is a global job search platform that aggregates millions of job listings from employers, recruiters, and staffing agencies worldwide. It helps job seekers find opportunities across various industries and locations, offering tools such as salary calculators, tax calculators, and personalized job alerts. The site also provides services for employers to post jobs and reach a broad audience.
+
+**Areas:** Company · JobSearch · Recruitment · Employment · Technology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://talent.com/)
+- [Documentation](https://www.talent.com/api-docs)
+- [API reference](https://www.talent.com/api-docs)
+- [Blog](https://blog.talent.com)
+- [Terms of service](https://www.talent.com:443/terms-of-service)
+- [Privacy policy](https://www.talent.com:443/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/talent-com/](https://apis.io/providers/talent-com/).
